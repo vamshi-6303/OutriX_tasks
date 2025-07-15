@@ -25,6 +25,11 @@ after run the program its pop up the GUI like this shows in the bellow
 
 <img width="1919" height="1079" alt="2" src="https://github.com/user-attachments/assets/dca7813b-b8bd-4fbe-9e9f-47b6c4fef765" />
 
+## 📺 Demo Video
+
+🎥 [Click here to watch the demo](https://drive.google.com/file/d/1egZ3Vaty1I-o5A3BolbTJYDpJ3OeOPQk/view?usp=drivesdk)
+
+> Demonstrates the phishing detection, result export, dark mode toggle, and URL scanning features.
 
 
 ## 🧠 How It Works
