@@ -53,50 +53,6 @@ If 2 or more rules match, the URL is marked as *⚠ Phishing Detected*.
 
 phishing_url_detector/ ├── phishing_detector.py     # Main application code ├── scan_result.csv          # Exported results (auto-generated) ├── README.md                # This file └── OutriX_task_1.txt        # Internship task submission
 
-## 🎯 How to Run
-
-1. Make sure Python is installed.
-2. Run the Python file:
-```bash
-python phishing_detector.py
-
-3. Enter a URL and click "Check URL".
-
-
-
-✅ Example URLs to Try
-
-http://paypal.verify-account.com
-
-https://google.com
-
-http://free-money-login.gq
-
-
-📤 Export Feature
-
-You can export your results to a CSV file with the "Export CSV" button. It will be saved as scan_result.csv.
-
-🌙 Dark Mode
-
-Toggle the theme between light and dark for a better viewing experience.
-
-🧾 Task Info
-
-Submitted as part of the OutriX Internship (Task 1).
-
-
----
-
-🙌 Acknowledgments
-
-Thanks to OutriX for the opportunity to showcase this project.
-
-📧 Contact
-
-Vamshi Gundoji
-📧 gundojivamshi13@gmail.com
-📍 Telangana, India
 
 🔗 LinkedIn Profile:
 Visit my LinkedIn (https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -144,3 +100,49 @@ GUI application development
 Cybercrime awareness
 
 Real-world tool building
+
+## 🎯 How to Run
+
+1. Make sure Python is installed.
+2. Run the Python file:
+```bash
+python phishing_detector.py
+
+3. Enter a URL and click "Check URL".
+
+
+
+✅ Example URLs to Try
+
+http://paypal.verify-account.com
+
+https://google.com
+
+http://free-money-login.gq
+
+
+📤 Export Feature
+
+You can export your results to a CSV file with the "Export CSV" button. It will be saved as scan_result.csv.
+
+🌙 Dark Mode
+
+Toggle the theme between light and dark for a better viewing experience.
+
+🧾 Task Info
+
+Submitted as part of the OutriX Internship (Task 1).
+
+
+---
+
+🙌 Acknowledgments
+
+Thanks to OutriX for the opportunity to showcase this project.
+
+📧 Contact
+
+Vamshi Gundoji
+📧 gundojivamshi13@gmail.com
+📍 Telangana, India
+
