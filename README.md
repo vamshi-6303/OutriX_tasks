@@ -54,11 +54,10 @@ If 2 or more rules match, the URL is marked as *⚠ Phishing Detected*.
 phishing_url_detector/ ├── phishing_detector.py     # Main application code ├── scan_result.csv          # Exported results (auto-generated) ├── README.md                # This file └── OutriX_task_1.txt        # Internship task submission
 
 
-##🔗 LinkedIn Profile:
-Visit my LinkedIn (https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
-
+<h3 style="color:black; font-weight:bold;">🔗 LinkedIn Profile</h3>
+<p><a href="https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+https://www.linkedin.com/in/vamshi-gundoji
+</a></p>
 
 
 <h2 style="color:black; font-weight:bold;">💡 LEARNING OUTCOME</h2>
