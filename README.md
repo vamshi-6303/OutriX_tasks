@@ -57,50 +57,46 @@ phishing_url_detector/ ├── phishing_detector.py     # Main application cod
 ##🔗 LinkedIn Profile:
 Visit my LinkedIn (https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-##💡 Learning Outcome
-
-Through building this Phishing URL Detector GUI, I gained practical knowledge in both software development and cybersecurity:
-
-##🧠 Understood how phishing websites operate, and how attackers use misleading or malicious URLs to trick users.
-
-🛡 Built a rule-based detection engine that identifies phishing patterns using string analysis, logic rules, and basic heuristics.
-
-##🔍 Learned to integrate real-world concepts like:
-
-SSL validation
-
-WHOIS domain lookups
-
-URL parsing and structural analysis
-
-
-🖥 Developed a GUI using Python’s Tkinter, enhancing user interaction with features like:
-
-Real-time URL scanning
-
-Verdict explanation and logging
-
-CSV export functionality
-
-Dark mode toggle for better accessibility
-
-
-##🚀 Strengthened understanding of cybersecurity fundamentals, threat detection, and building tools for real-time analysis.
 
 
 
----
 
-##📁 This project was developed and submitted as Task 1 for the OutriX Virtual Internship, showcasing skills in:
+<h2 style="color:black; font-weight:bold;">💡 LEARNING OUTCOME</h2>
+<hr>
 
-Python programming
+<h3 style="color:black; font-weight:bold;">🧠 UNDERSTANDING PHISHING ATTACKS</h3>
+<p>Learned how phishing websites trick users by disguising malicious URLs as legitimate ones.</p>
 
-GUI application development
+<h3 style="color:black; font-weight:bold;">🛡 RULE-BASED DETECTION ENGINE</h3>
+<p>Implemented logic-based heuristics to classify URLs using pattern matching, keyword detection, and structural checks.</p>
 
-Cybercrime awareness
+<h3 style="color:black; font-weight:bold;">🔍 REAL-WORLD CONCEPTS APPLIED</h3>
+<ul>
+  <li>SSL usage</li>
+  <li>WHOIS domain lookup (conceptual)</li>
+  <li>URL parsing and validation</li>
+</ul>
 
-Real-world tool building
+<h3 style="color:black; font-weight:bold;">🖥 GUI DEVELOPMENT WITH TKINTER</h3>
+<ul>
+  <li>Real-time threat detection</li>
+  <li>Dark Mode toggle</li>
+  <li>CSV export</li>
+  <li>URL launching and result logging</li>
+</ul>
 
+<h3 style="color:black; font-weight:bold;">🚀 HANDS-ON CYBERSECURITY PRACTICE</h3>
+<p>Strengthened my understanding of threat analysis, phishing indicators, and secure web behavior.</p>
+
+<hr>
+
+<p><strong>📁 This project was developed and submitted as Task 1 for the OutriX Virtual Internship</strong>, demonstrating:</p>
+<ul>
+  <li>✅ Python programming</li>
+  <li>✅ GUI design and UX</li>
+  <li>✅ Cybersecurity awareness</li>
+  <li>✅ Real-world project building</li>
+</ul>
 ## 🎯 How to Run
 
 1. Make sure Python is installed.
