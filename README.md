@@ -54,18 +54,18 @@ If 2 or more rules match, the URL is marked as *⚠ Phishing Detected*.
 phishing_url_detector/ ├── phishing_detector.py     # Main application code ├── scan_result.csv          # Exported results (auto-generated) ├── README.md                # This file └── OutriX_task_1.txt        # Internship task submission
 
 
-🔗 LinkedIn Profile:
+##🔗 LinkedIn Profile:
 Visit my LinkedIn (https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-💡 Learning Outcome
+##💡 Learning Outcome
 
 Through building this Phishing URL Detector GUI, I gained practical knowledge in both software development and cybersecurity:
 
-🧠 Understood how phishing websites operate, and how attackers use misleading or malicious URLs to trick users.
+##🧠 Understood how phishing websites operate, and how attackers use misleading or malicious URLs to trick users.
 
 🛡 Built a rule-based detection engine that identifies phishing patterns using string analysis, logic rules, and basic heuristics.
 
-🔍 Learned to integrate real-world concepts like:
+##🔍 Learned to integrate real-world concepts like:
 
 SSL validation
 
@@ -85,13 +85,13 @@ CSV export functionality
 Dark mode toggle for better accessibility
 
 
-🚀 Strengthened understanding of cybersecurity fundamentals, threat detection, and building tools for real-time analysis.
+##🚀 Strengthened understanding of cybersecurity fundamentals, threat detection, and building tools for real-time analysis.
 
 
 
 ---
 
-📁 This project was developed and submitted as Task 1 for the OutriX Virtual Internship, showcasing skills in:
+##📁 This project was developed and submitted as Task 1 for the OutriX Virtual Internship, showcasing skills in:
 
 Python programming
 
