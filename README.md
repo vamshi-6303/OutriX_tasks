@@ -97,5 +97,50 @@ Thanks to OutriX for the opportunity to showcase this project.
 Vamshi Gundoji
 📧 gundojivamshi13@gmail.com
 📍 Telangana, India
-🔗 https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+🔗 LinkedIn Profile:
+Visit my LinkedIn (https://www.linkedin.com/in/vamshi-gundoji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+💡 Learning Outcome
+
+Through building this Phishing URL Detector GUI, I gained practical knowledge in both software development and cybersecurity:
+
+🧠 Understood how phishing websites operate, and how attackers use misleading or malicious URLs to trick users.
+
+🛡 Built a rule-based detection engine that identifies phishing patterns using string analysis, logic rules, and basic heuristics.
+
+🔍 Learned to integrate real-world concepts like:
+
+SSL validation
+
+WHOIS domain lookups
+
+URL parsing and structural analysis
+
+
+🖥 Developed a GUI using Python’s Tkinter, enhancing user interaction with features like:
+
+Real-time URL scanning
+
+Verdict explanation and logging
+
+CSV export functionality
+
+Dark mode toggle for better accessibility
+
+
+🚀 Strengthened understanding of cybersecurity fundamentals, threat detection, and building tools for real-time analysis.
+
+
+
+---
+
+📁 This project was developed and submitted as Task 1 for the OutriX Virtual Internship, showcasing skills in:
+
+Python programming
+
+GUI application development
+
+Cybercrime awareness
+
+Real-world tool building
